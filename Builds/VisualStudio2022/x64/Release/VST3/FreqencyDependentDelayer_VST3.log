@@ -1,0 +1,7 @@
+﻿  include_juce_audio_plugin_client_VST3.cpp
+     Bibliothek "C:\Users\Maximilian\Documents\audio_projects\FrequencyDependentDelay\Builds\VisualStudio2022\x64\Release\VST3\FreqencyDependentDelayer.lib" und Objekt "C:\Users\Maximilian\Documents\audio_projects\FrequencyDependentDelay\Builds\VisualStudio2022\x64\Release\VST3\FreqencyDependentDelayer.exp" werden erstellt.
+  Code wird generiert.
+  Codegenerierung ist abgeschlossen.
+  FreqencyDependentDelayer_VST3.vcxproj -> C:\Users\Maximilian\Documents\audio_projects\FrequencyDependentDelay\Builds\VisualStudio2022\x64\Release\VST3\FreqencyDependentDelayer.dll
+          1 Datei(en) kopiert.
+  C:\Users\Maximilian\Documents\audio_projects\FrequencyDependentDelay\Builds\VisualStudio2022\x64\Release\VST3\FreqencyDependentDelayer.vst3\Contents\moduleinfo.json konnte nicht gefunden werden

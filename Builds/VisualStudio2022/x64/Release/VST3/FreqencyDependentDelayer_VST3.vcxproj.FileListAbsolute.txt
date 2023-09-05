@@ -1,0 +1,1 @@
+C:\Users\Maximilian\Documents\audio_projects\FrequencyDependentDelay\Builds\VisualStudio2022\x64\Release\VST3\FreqencyDependentDelayer.dll
